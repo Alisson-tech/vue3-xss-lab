@@ -1,0 +1,8 @@
+{
+  "messageVulnerable": "Do you <strong>really</strong> want to delete the item <strong>{name}</strong>?",
+  "message": "Do you <strong>really</strong> want to delete the item",
+  "close": "Close",
+  "delete": "Delete",
+  "add" : "Add",
+  "remove" : "Remove"
+}
