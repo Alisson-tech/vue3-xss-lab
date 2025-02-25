@@ -20,5 +20,6 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Project
+
+The project simulates an XSS vulnerability in Vue.js 3. It has two components: one with the vulnerability and the other with the fix.
