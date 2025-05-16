@@ -12,7 +12,9 @@ O objetivo é mostrar como falhas de segurança podem surgir com más práticas 
 - **`DialogFix.vue`**  
   Componente corrigido. Mostra como evitar a vulnerabilidade usando boas práticas.
 
-Para melhor entendimento das medidas tomadas acessar o video: https://www.youtube.com/watch?v=nEsLGKc-RcA
+📺 **Demonstração em vídeo**  
+Para melhor entendimento das medidas tomadas, assista ao vídeo:  
+[https://www.youtube.com/watch?v=nEsLGKc-RcA](https://www.youtube.com/watch?v=nEsLGKc-RcA)
 
 ---
 
